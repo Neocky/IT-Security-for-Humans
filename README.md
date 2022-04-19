@@ -8,7 +8,7 @@ created: `Zero Trust`.
 
 Sadly there were not good enough guides out there, which explained `Zero Trust` in an understandable manner with
 examples. So i created this repository to help me and hopefully you, in understanding and implementing a `Zero Trust`
-security solution in our network.
+security solution in our network and a better security solution overall.
 
 
 ## :pencil: Contributing
