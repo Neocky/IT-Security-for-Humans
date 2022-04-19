@@ -30,6 +30,7 @@ ability to remember it. We can even use a space in the password to seperate the 
 Humans make and break security so educate your users about a better password policy and enforce it on the 
 organizational level.
 
+
 ## Password guidelines for administrators :computer:
 Here are some tips to get a more secure password system by password diversity:
 - Maintain a high-character minimum length requirement

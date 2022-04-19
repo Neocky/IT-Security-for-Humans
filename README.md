@@ -10,6 +10,7 @@ Sadly there were not good enough guides out there, which explained `Zero Trust` 
 examples. So i created this repository to help me and hopefully you, in understanding and implementing a `Zero Trust`
 security solution in our network.
 
+
 ## :pencil: Contributing
 If you find something which doesn't seem right, something which doesn't make sense, or have a topic to add to this
 project then please make a pull request with explanations about your changes and comments.
@@ -18,13 +19,12 @@ A few simple rules for this project when contributing:
 - useful
 - inviting and clear
 - not tiring
-- about it security
 
 
 ## :books: Table of Contents
-* Government security principles
-* [**Passwords**](/Topics/Passwords.md)
-* Network Switches
+- Government security principles
+- **[Passwords](/Topics/Passwords.md)**
+- Network Switches
 
 
 ## :pizza: Donations
