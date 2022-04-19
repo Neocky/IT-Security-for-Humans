@@ -18,7 +18,7 @@ Traditional password policies used to recommend something like this:
     - Symbol
 - Change every 90 days
 
-The problem with this policies are, that these will create weak passwords through the constant need to change the
+The problem with these policies are, that these will create weak passwords through the constant need to change the
 password and will perhaps create passwords like this: `Spring2022`  
 The password has a fixed format and is easy to break for an attacker with a [brute-force attack](https://en.wikipedia.org/wiki/Brute-force_attack) or a [dictionary attack](https://en.wikipedia.org/wiki/Dictionary_attack).
 

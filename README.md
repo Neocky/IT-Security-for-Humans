@@ -1,4 +1,4 @@
-# IT Security Guidelines for Humans 💂‍
+# :guard: IT Security Guidelines for Humans
 > This repository will teach sytem administrators in an understandable language `IT Security Guidelines` to protect
 > their systems.
 
@@ -10,13 +10,24 @@ Sadly there were not good enough guides out there, which explained `Zero Trust` 
 examples. So i created this repository to help me and hopefully you, in understanding and implementing a `Zero Trust`
 security solution in our network.
 
-## Topics 📚
-1. Government security principles
-2. [Passwords](/Topics/Passwords.md)
-3. Network Switches
+## :pencil: Contributing
+If you find something which doesn't seem right, something which doesn't make sense, or have a topic to add to this
+project then please make a pull request with explanations about your changes and comments.
+
+A few simple rules for this project when contributing:
+- useful
+- inviting and clear
+- not tiring
+- about it security
 
 
-## Donations :pizza:
+## :books: Table of Contents
+* Government security principles
+* [**Passwords**](/Topics/Passwords.md)
+* Network Switches
+
+
+## :pizza: Donations
 If you learnt something new and want to support the project then how about buying me a pizza? :pizza::yellow_heart:
 
 <a href="https://www.buymeacoffee.com/Neocky"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=Neocky&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
