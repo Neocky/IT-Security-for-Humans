@@ -1,4 +1,14 @@
 # :guard: IT Security Guidelines for Humans
+
+
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/MADE%20WITH-LOVE%20%F0%9F%92%9B-orange"/>
+<img src="https://img.shields.io/badge/MADE%20FOR-HUMANS%20%F0%9F%91%A9%F0%9F%A7%91-blue"/>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNeocky%2FIT-Security-for-Humans&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
+</p>
+
 > This repository will teach sytem administrators in an understandable language `IT Security Guidelines` to protect
 > their systems.
 
