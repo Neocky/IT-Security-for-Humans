@@ -1,4 +1,4 @@
-# Passwords :closed_lock_with_key:
+# :closed_lock_with_key: Passwords
 
 Passwords are essential to securing your accounts and protecting your data. But what
 differentiates a secure from an unsecure password for your accounts?
@@ -31,7 +31,7 @@ Humans make and break security so educate your users about a better password pol
 organizational level.
 
 
-## Password guidelines for administrators :computer:
+## :computer: Password guidelines for administrators
 Here are some tips to get a more secure password system by password diversity:
 - Maintain a high-character minimum length requirement
 - Don't require complexity criteria
@@ -42,7 +42,7 @@ Here are some tips to get a more secure password system by password diversity:
 - Check passwordless authenthication: `Hardware token, Keycard, etc.`
 
 
-## Password guidelines for humans :busts_in_silhouette:
+## :busts_in_silhouette: Password guidelines for humans
 Here are some tips for your user in your organization:
 - Use long passphrases as passwords `24+ Characters`
 - Don't reuse passwords
