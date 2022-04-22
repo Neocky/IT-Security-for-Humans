@@ -34,7 +34,7 @@ A few simple rules for this project when contributing:
 ## :books: Table of Contents
 - Government security principles
 - **[Passwords](/Topics/Passwords.md)**
-- Network Switches
+- **[Network switches](/Topics/Network%20switches.md)**
 
 
 ## :pizza: Donations
